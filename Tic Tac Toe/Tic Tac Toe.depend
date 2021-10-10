@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1501773337 source:c:\users\fasih uddin ahmed\desktop\tic tac toe\main.cpp
+	<Game.h>
+
+1502520812 c:\users\fasih uddin ahmed\desktop\tic tac toe\include\board.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1501411763 c:\users\fasih uddin ahmed\desktop\tic tac toe\include\utility.h
+	<windows.h>
+	<conio.h>
+
+1502520812 source:c:\users\fasih uddin ahmed\desktop\tic tac toe\src\board.cpp
+	"Board.h"
+
+1501773337 c:\users\fasih uddin ahmed\desktop\tic tac toe\include\game.h
+	<Board.h>
+
+1501773337 source:c:\users\fasih uddin ahmed\desktop\tic tac toe\src\game.cpp
+	"Game.h"
+
+1501773337 source:e:\summer\tic tac toe\main.cpp
+	<Game.h>
+
+1501773337 e:\summer\tic tac toe\include\game.h
+	<Board.h>
+
+1502520812 e:\summer\tic tac toe\include\board.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1502520812 source:e:\summer\tic tac toe\src\board.cpp
+	"Board.h"
+
+1501773337 source:e:\summer\tic tac toe\src\game.cpp
+	"Game.h"
+
+1501773337 source:j:\projects\summer 2018\summer\tic tac toe\main.cpp
+	<Game.h>
+
+1501773337 j:\projects\summer 2018\summer\tic tac toe\include\game.h
+	<Board.h>
+
+1502520812 j:\projects\summer 2018\summer\tic tac toe\include\board.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
+1502520812 source:j:\projects\summer 2018\summer\tic tac toe\src\board.cpp
+	"Board.h"
+
+1501773337 source:j:\projects\summer 2018\summer\tic tac toe\src\game.cpp
+	"Game.h"
+
